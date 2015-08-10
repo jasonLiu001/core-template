@@ -1,0 +1,6 @@
+com.isoftstone.crawl.template
+com.isoftstone.crawl.template.dao
+com.isoftstone.crawl.template.dao.impl
+com.isoftstone.crawl.template.global
+com.isoftstone.crawl.template.utils
+com.isoftstone.crawl.template.vo
